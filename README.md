@@ -2,7 +2,7 @@
 
 Simulation and pulse-level optimization of a flux-tunable Controlled-Z (CZ) quantum gate. The gate is implemented using the second excited state ($|2\rangle$) of a capacitively coupled superconducting transmon pair, simulated dynamically using QuTiP.
 
-📄 **[Read the Full Theoretical Derivation (PDF)](QCED_PROGETTO_ESAME.pdf)**
+📄 **[Read the Full Theoretical Derivation (PDF)](CZ_GATE_TRANSMON.pdf)**
 
 ## Physical Model & Overview
 
